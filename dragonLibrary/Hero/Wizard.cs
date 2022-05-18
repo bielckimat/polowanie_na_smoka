@@ -54,6 +54,9 @@ namespace dragonLibrary.Hero
             Intelligence++;
             Mana = Mana + 10;
             MaxMana = MaxMana + 10;
+            MaxHealth = MaxHealth + 10;
+            Health = Health + 10;
+            NewWeapon(20);
         }
     }
 }

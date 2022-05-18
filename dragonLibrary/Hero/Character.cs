@@ -135,7 +135,14 @@
 
         public virtual void NextLvl()
         {
+
             lvl++;
+            if(lvl %5 == 0)
+            {
+                NewWeapon(10);
+                NewArmor(10);
+            }
+            
         }
 
       

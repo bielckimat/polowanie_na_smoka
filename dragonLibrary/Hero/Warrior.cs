@@ -45,6 +45,7 @@ namespace dragonLibrary.Hero
             AttacksPerRound++;
             MaxHealth = MaxHealth + 10;
             Health = Health + 10;
+            NewWeapon(10);
         }
 
     }

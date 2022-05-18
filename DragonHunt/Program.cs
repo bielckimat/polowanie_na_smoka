@@ -55,10 +55,12 @@ using DragonHunt;
                     {
                         ExtentionsTool.round(HeroList, Smaug);
                         ExtentionsTool.HPInfo(HeroList, Smaug);
-                        if ((Mateusz.IsHeAlive() || Legolas.IsHeAlive() || Geralt.IsHeAlive()))
-                            Console.WriteLine("Drużyna Pokonała Smoka");
+                        if ((Mateusz.IsHeAlive() || Legolas.IsHeAlive() || Geralt.IsHeAlive()) && Smaug.IsHeAlive())
+                            Console.WriteLine("WALKA TRWA");
+                        if (Smaug.IsHeAlive() == false)
+                            Console.WriteLine("Smok pokonany");
                         else
-                            Console.WriteLine("Smok Wygrał");
+                            Console.WriteLine("SKOM WYGRAŁ :(");
                         input = '0';
                     }
                 }

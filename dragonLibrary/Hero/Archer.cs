@@ -50,6 +50,8 @@ namespace dragonLibrary.Hero
             base.NextLvl();
             chanceToDodge++;
             Agility++;
+            NewWeapon(5);
+
         }
     }
 }
