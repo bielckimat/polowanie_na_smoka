@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "DragonHunt/1.0.0": {
+        "dependencies": {
+          "dragonLibrary": "1.0.0"
+        },
+        "runtime": {
+          "DragonHunt.dll": {}
+        }
+      },
+      "dragonLibrary/1.0.0": {
+        "runtime": {
+          "dragonLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DragonHunt/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "dragonLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

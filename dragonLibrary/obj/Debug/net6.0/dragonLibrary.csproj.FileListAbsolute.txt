@@ -1,0 +1,12 @@
+C:\Users\bieli\source\repos\dragonLibrary\dragonLibrary\bin\Debug\net6.0\dragonLibrary.deps.json
+C:\Users\bieli\source\repos\dragonLibrary\dragonLibrary\bin\Debug\net6.0\dragonLibrary.dll
+C:\Users\bieli\source\repos\dragonLibrary\dragonLibrary\bin\Debug\net6.0\dragonLibrary.pdb
+C:\Users\bieli\source\repos\dragonLibrary\dragonLibrary\obj\Debug\net6.0\dragonLibrary.csproj.AssemblyReference.cache
+C:\Users\bieli\source\repos\dragonLibrary\dragonLibrary\obj\Debug\net6.0\dragonLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bieli\source\repos\dragonLibrary\dragonLibrary\obj\Debug\net6.0\dragonLibrary.AssemblyInfoInputs.cache
+C:\Users\bieli\source\repos\dragonLibrary\dragonLibrary\obj\Debug\net6.0\dragonLibrary.AssemblyInfo.cs
+C:\Users\bieli\source\repos\dragonLibrary\dragonLibrary\obj\Debug\net6.0\dragonLibrary.csproj.CoreCompileInputs.cache
+C:\Users\bieli\source\repos\dragonLibrary\dragonLibrary\obj\Debug\net6.0\dragonLibrary.dll
+C:\Users\bieli\source\repos\dragonLibrary\dragonLibrary\obj\Debug\net6.0\refint\dragonLibrary.dll
+C:\Users\bieli\source\repos\dragonLibrary\dragonLibrary\obj\Debug\net6.0\dragonLibrary.pdb
+C:\Users\bieli\source\repos\dragonLibrary\dragonLibrary\obj\Debug\net6.0\ref\dragonLibrary.dll
